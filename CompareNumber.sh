@@ -4,9 +4,9 @@ num1=5
 num2=10
  if [ $num1 -eq $num2 ]
   then
-     $num1 and $num2 are equal
+     echo  $num1 and $num2 are equal
    else
-    $num1 and $num2 are not equal
+     echo $num1 and $num2 are not equal
   fi
      
 
